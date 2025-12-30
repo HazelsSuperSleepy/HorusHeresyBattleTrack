@@ -16,3 +16,5 @@ yarn-error.log*
 *.swp
 *.swo
 *~
+Black Books/
+*.pdf
